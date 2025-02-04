@@ -1,5 +1,2 @@
-git add .
+echo "git pull origin main" > up_to_date
 
-git commit -m '(the masseg)'
-
-git push
